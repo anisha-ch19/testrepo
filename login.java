@@ -10,10 +10,11 @@ division
 
 public class login ()
 {
+
 	public static void main (string args [])
 	
 	{
-		int a =30;
+		int a =35;
 
 		for(i=0;i<=10;i++)
 
@@ -22,7 +23,7 @@ public class login ()
 
 		 }
 
-        }
-
+        
+	}
 }
 
